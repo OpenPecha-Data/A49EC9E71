@@ -1,0 +1,25 @@
+segment_sources:
+  I776BD22B:
+    type: origin_type
+    relation: translation
+    language: en
+  I44E91428:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a40821dd1fe3460c9620ca075db61461:
+    I776BD22B: 6a91655bff054dbaad1e32fe3eed9152
+    I44E91428: fe1f39ae27f24ec4af79648678ed9976
+  dee4d3177e9640d795934d9a58fed51d:
+    I776BD22B: f0568d0b88974ab2bb4c8f3c3cd7ece8
+    I44E91428: b769d611015040658afdbc57966fb4ef
+  f4160973ae4a41d9a521c818ed2aa260:
+    I776BD22B: 134a7650e144422eb25989cc82f28b79
+    I44E91428: aadca4ffe73c425c9e658545f0e7c036
+  8a657599855f4a1fa5106f889b685b6c:
+    I776BD22B: 53bff081d2ff4cc7bd2bd7674f9f4354
+    I44E91428: e7033d3cf8ba4f978626603f34e2573f
+  447ba6bdf1a342468cf988741ad88f47:
+    I776BD22B: e0b2c2f958f24ff99d978d5266a343ad
+    I44E91428: fdcf19b565ff4ba9b62a4a60bf3f465a
